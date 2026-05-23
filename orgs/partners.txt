@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 partner list
 Boot.dev
 TheStartup
+
