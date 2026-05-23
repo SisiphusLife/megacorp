@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 partner list
-Boot.dev
+SalesInc
 TheStartup
 
